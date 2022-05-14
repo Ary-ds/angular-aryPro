@@ -18,6 +18,7 @@ File: scss
 /*******************
 Progress bar
 ******************/
+
 .progress.active .progress-bar,
 .progress-bar.active {
   -webkit-animation: progress-bar-stripes 2s linear infinite;
@@ -59,3 +60,5 @@ Progress bar
 @keyframes myanimation {
   from {
     width: 0; } }
+
+ 
